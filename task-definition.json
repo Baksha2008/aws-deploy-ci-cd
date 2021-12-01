@@ -64,7 +64,7 @@
     "EXTERNAL",
     "EC2"
   ],
-  "taskDefinitionArn": "arn:aws:ecs:us-east-2:625586392693:task-definition/test:1",
+  "taskDefinitionArn": "arn:aws:ecs:us-east-2:625586392693:task-definition/test:17",
   "family": "test",
   "requiresAttributes": [
     {
@@ -93,7 +93,7 @@
   "networkMode": null,
   "runtimePlatform": null,
   "cpu": null,
-  "revision": 1,
+  "revision": 17,
   "status": "ACTIVE",
   "inferenceAccelerators": null,
   "proxyConfiguration": null,
